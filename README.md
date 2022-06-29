@@ -9,6 +9,7 @@ Current state:
 
 To Do:
 - Convert word bank to python library random word generator
+  - randomwords library seems to not be working
 - Add green coloring for correct position of matching leters
 - Add yellow coloring for matching leters 
 - Potentially convert project to phone application
